@@ -1,0 +1,20 @@
+# Python / notebook cache
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Temporary analysis outputs
+tmp/
+output/
+*.inspect.ndjson
+*_preview.png
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Power BI temporary files
+*.pbitmp
+~$*
+
